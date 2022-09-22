@@ -1,0 +1,19 @@
+{
+  "name": "lap3",
+  "version": "1.0.0",
+  "description": "this is my firt cloud nodejs",
+  "main": "session1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CVHoang0205/lap3.git"
+  },
+  "author": "hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CVHoang0205/lap3/issues"
+  },
+  "homepage": "https://github.com/CVHoang0205/lap3#readme"
+}
